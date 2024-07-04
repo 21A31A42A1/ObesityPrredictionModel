@@ -1,1 +1,2 @@
 # ObesityPrredictionModel
+In this project, I developed an Obesity Prediction Model by considering a dataset from Kaggle and other resources. The data is cleaned and then the model is trained using the Pycaret library of Python. The classification model used is Extreme Gradient Boosting which provided highest accuracy. And the trained model is tested on unseen dataset. That model is saved and loaded to build an application using streamlit.
